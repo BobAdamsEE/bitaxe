@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.39999999999999997
         }
       },
       "diff_pair_dimensions": [
@@ -176,6 +176,7 @@
       ],
       "track_widths": [
         0.0,
+        0.203,
         0.254,
         0.508,
         1.0,
@@ -498,7 +499,7 @@
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "error",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -590,7 +591,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "./",
+    "plot_directory": "../../../../../../Downloads/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -619,7 +620,7 @@
     ],
     [
       "8e8832ea-6bf1-49d2-b3a5-32a207f555d2",
-      "Fan"
+      "Fan and Screen"
     ]
   ],
   "text_variables": {}
