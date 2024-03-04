@@ -122,7 +122,7 @@
   (pad "4" smd rect (at 1.30175 0.950001) (size 0.9017 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a31282f7-af76-4947-bf4c-4257b3b7b696))
   (pad "5" smd rect (at 1.30175 0) (size 0.9017 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fa17cce0-c7d9-41b5-8e7d-f19350470364))
   (pad "6" smd rect (at 1.30175 -0.950001) (size 0.9017 0.508) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 40737a26-e6a8-407e-b49e-7af970871d50))
-  (model "C:/Users/Bob/Downloads/TSOT26_DIO.step"
+  (model "${KIPRJMOD}/3d/TSOT26_DIO.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

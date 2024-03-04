@@ -41,7 +41,7 @@
     (solder_mask_margin 0.102) (tstamp 3815e5b9-38c4-462a-80b4-e8cfffaefbd2))
   (pad "2" smd rect (at 1.8 0) (size 1.5 4) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 46160a9f-e2ef-4256-9edd-7247409f6da1))
-  (model "C:/Users/Bob/Downloads/VLS5045EX-100M.step"
+  (model "${KIPRJMOD}/3d/VLS5045EX-100M.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
